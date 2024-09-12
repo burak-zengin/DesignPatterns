@@ -1,0 +1,6 @@
+@DesignPatterns.Cretional.Singleton_HostAddress = http://localhost:5267
+
+GET {{DesignPatterns.Cretional.Singleton_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

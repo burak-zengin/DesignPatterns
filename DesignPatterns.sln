@@ -9,15 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Cretional.Si
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{EF8E4C50-6A45-4769-99E4-038533DE35BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Structural.Composite", "Structural\DesignPatterns.Structural.Composite\DesignPatterns.Structural.Composite.csproj", "{FD5287DA-7992-4143-9C8A-0B640E3F5076}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Structural.Composite", "Structural\DesignPatterns.Structural.Composite\DesignPatterns.Structural.Composite.csproj", "{FD5287DA-7992-4143-9C8A-0B640E3F5076}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{79702A14-144D-4E5E-8095-7CA5910CA31A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Behavioral.Strategy", "Behavioral\DesignPatterns.Behavioral.Strategy\DesignPatterns.Behavioral.Strategy.csproj", "{EE1E6730-0E81-4929-8395-FF303640FF0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Behavioral.Strategy", "Behavioral\DesignPatterns.Behavioral.Strategy\DesignPatterns.Behavioral.Strategy.csproj", "{EE1E6730-0E81-4929-8395-FF303640FF0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Behavioral.Visitor", "Behavioral\DesignPatterns.Behavioral.Visitor\DesignPatterns.Behavioral.Visitor.csproj", "{AF84ED70-3F01-4FB9-BEC9-B01E5A1627C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Behavioral.Visitor", "Behavioral\DesignPatterns.Behavioral.Visitor\DesignPatterns.Behavioral.Visitor.csproj", "{AF84ED70-3F01-4FB9-BEC9-B01E5A1627C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Behavioral.ChainOfResponsibility", "Behavioral\DesignPatterns.Behavioral.ChainOfResponsibility\DesignPatterns.Behavioral.ChainOfResponsibility.csproj", "{BE8559B6-A288-43FA-AEE0-8E645B26BB37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Behavioral.ChainOfResponsibility", "Behavioral\DesignPatterns.Behavioral.ChainOfResponsibility\DesignPatterns.Behavioral.ChainOfResponsibility.csproj", "{BE8559B6-A288-43FA-AEE0-8E645B26BB37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Creational.Factory", "Creational\DesignPatterns.Creational.Factory\DesignPatterns.Creational.Factory.csproj", "{0D173FC4-BB2E-4B00-94B8-590182856722}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{BE8559B6-A288-43FA-AEE0-8E645B26BB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE8559B6-A288-43FA-AEE0-8E645B26BB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE8559B6-A288-43FA-AEE0-8E645B26BB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D173FC4-BB2E-4B00-94B8-590182856722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D173FC4-BB2E-4B00-94B8-590182856722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D173FC4-BB2E-4B00-94B8-590182856722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D173FC4-BB2E-4B00-94B8-590182856722}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +61,7 @@ Global
 		{EE1E6730-0E81-4929-8395-FF303640FF0A} = {79702A14-144D-4E5E-8095-7CA5910CA31A}
 		{AF84ED70-3F01-4FB9-BEC9-B01E5A1627C2} = {79702A14-144D-4E5E-8095-7CA5910CA31A}
 		{BE8559B6-A288-43FA-AEE0-8E645B26BB37} = {79702A14-144D-4E5E-8095-7CA5910CA31A}
+		{0D173FC4-BB2E-4B00-94B8-590182856722} = {55DBF51B-1DB2-404A-84D5-74A9B0A36F2C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {305A8F08-EB76-4619-8F4F-4AF5327F4E89}

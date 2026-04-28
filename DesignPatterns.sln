@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Creational.F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Structural.Proxy", "Structural\DesignPatterns.Structural.Proxy\DesignPatterns.Structural.Proxy.csproj", "{3285A43D-F0C0-49B7-8252-9AB84C252029}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Cretional.AbstractFactory", "Creational\DesignPatterns.Cretional.AbstractFactory\DesignPatterns.Cretional.AbstractFactory.csproj", "{BC3491F5-2812-499D-B089-79C848283B64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Creational.AbstractFactory", "Creational\DesignPatterns.Cretional.AbstractFactory\DesignPatterns.Creational.AbstractFactory.csproj", "{BC3491F5-2812-499D-B089-79C848283B64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
